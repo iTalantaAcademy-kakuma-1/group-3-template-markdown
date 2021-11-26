@@ -23,6 +23,8 @@
   doesn't mean it is! It doesn't know every word in the world. You can add new
   correct words to the [./.cspell.json](./.cspell.json) file so they won't cause
   an error.
+  <!--- link--->
+  [shukri-ibrahim](.people/shukri.md)
 
 ## Continuous Integration (CI)
 

@@ -8,4 +8,4 @@ was expensive and people live in bad condition . all friend was cowboys
 
 <!-- image-->
 
-![image](https://avatars.githubusercontent.com/u/66235982?v=4)
+
